@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Challenge1.unity
-    guid: 85e68df7632721844a7f6729156d0549
+    path: Assets/Scenes/XRTestScene.unity
+    guid: 1ddf677b3045e4b40ac777e0c7da623c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 85ac0f8e769bb964d97bcb8f02afd678, type: 2}
